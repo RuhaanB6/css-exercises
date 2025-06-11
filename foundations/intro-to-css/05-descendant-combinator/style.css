@@ -1,0 +1,7 @@
+/* div has class 'container', and p has class 'text' */
+
+.container .text {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+}

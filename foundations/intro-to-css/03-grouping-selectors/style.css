@@ -1,0 +1,15 @@
+/* Adding the shared class style */
+
+.font-config {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.black-white {
+  background-color: black;
+  color: white;
+}
+
+.yellow {
+  background-color: yellow;
+}
